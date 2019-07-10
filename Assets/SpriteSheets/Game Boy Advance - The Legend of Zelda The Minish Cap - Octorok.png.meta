@@ -1,0 +1,751 @@
+fileFormatVersion: 2
+guid: 3f7103eac3e232e4fa777b12d14af30e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_0
+    21300002: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_1
+    21300004: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_2
+    21300006: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_3
+    21300008: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_4
+    21300010: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_5
+    21300012: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_6
+    21300014: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_7
+    21300016: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_8
+    21300018: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_9
+    21300020: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_10
+    21300022: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_11
+    21300024: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_12
+    21300026: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_13
+    21300028: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_14
+    21300030: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_15
+    21300032: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_16
+    21300034: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_17
+    21300036: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_18
+    21300038: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_19
+    21300040: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_20
+    21300042: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_21
+    21300044: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_22
+    21300046: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_23
+    21300048: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_24
+    21300050: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_25
+    21300052: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_26
+    21300054: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_27
+    21300056: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_28
+    21300058: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_29
+    21300060: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_30
+    21300062: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_31
+    21300064: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_32
+    21300066: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_33
+    21300068: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_34
+    21300070: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_35
+    21300072: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_36
+    21300074: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_37
+    21300076: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_38
+    21300078: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_39
+    21300080: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_40
+    21300082: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_41
+    21300084: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_42
+    21300086: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_43
+    21300088: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_44
+    21300090: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_45
+    21300092: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_46
+    21300094: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_47
+    21300096: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_48
+    21300098: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_49
+    21300100: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_50
+    21300102: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_51
+    21300104: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_52
+    21300106: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_53
+    21300108: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_54
+    21300110: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_55
+    21300112: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_56
+    21300114: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_57
+    21300116: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_58
+    21300118: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_59
+    21300120: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_60
+    21300122: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_61
+    21300124: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_62
+    21300126: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_63
+    21300128: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_64
+    21300130: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_65
+    21300132: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_66
+    21300134: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_67
+    21300136: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_68
+    21300138: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_69
+    21300140: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_70
+    21300142: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_71
+    21300144: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_72
+    21300146: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_73
+    21300148: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_74
+    21300150: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_75
+    21300152: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_76
+    21300154: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_77
+    21300156: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_78
+    21300158: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_79
+    21300160: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_80
+    21300162: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_81
+    21300164: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_82
+    21300166: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_83
+    21300168: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_84
+    21300170: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_85
+    21300172: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_86
+    21300174: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_87
+    21300176: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_88
+    21300178: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_89
+    21300180: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_90
+    21300182: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_91
+    21300184: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_92
+    21300186: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_93
+    21300188: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_94
+    21300190: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_95
+    21300192: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_96
+    21300194: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_97
+    21300196: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_98
+    21300198: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_99
+    21300200: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_100
+    21300202: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_101
+    21300204: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_102
+    21300206: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_103
+    21300208: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_104
+    21300210: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_105
+    21300212: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_106
+    21300214: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_107
+    21300216: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_108
+    21300218: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_109
+    21300220: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_110
+    21300222: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_111
+    21300224: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_112
+    21300226: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_113
+    21300228: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_114
+    21300230: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_115
+    21300232: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_116
+    21300234: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_117
+    21300236: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_118
+    21300238: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_119
+    21300240: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_120
+    21300242: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_121
+    21300244: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_122
+    21300246: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_123
+    21300248: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_124
+    21300250: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_125
+    21300252: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_126
+    21300254: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_127
+    21300256: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_128
+    21300258: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_129
+    21300260: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_130
+    21300262: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_131
+    21300264: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_132
+    21300266: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_133
+    21300268: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_134
+    21300270: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_135
+    21300272: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_136
+    21300274: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_137
+    21300276: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_138
+    21300278: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_139
+    21300280: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_140
+    21300282: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_141
+    21300284: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_142
+    21300286: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_143
+    21300288: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_144
+    21300290: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_145
+    21300292: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_146
+    21300294: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_147
+    21300296: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_148
+    21300298: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_149
+    21300300: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_150
+    21300302: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_151
+    21300304: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_152
+    21300306: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_153
+    21300308: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_154
+    21300310: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_155
+    21300312: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_156
+    21300314: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_157
+    21300316: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_158
+    21300318: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_159
+    21300320: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_160
+    21300322: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_161
+    21300324: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_162
+    21300326: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_163
+    21300328: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_164
+    21300330: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_165
+    21300332: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_166
+    21300334: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_167
+    21300336: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_168
+    21300338: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_169
+    21300340: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_170
+    21300342: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_171
+    21300344: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_172
+    21300346: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_173
+    21300348: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_174
+    21300350: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_175
+    21300352: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_176
+    21300354: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_177
+    21300356: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_178
+    21300358: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_179
+    21300360: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_180
+    21300362: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_181
+    21300364: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_182
+    21300366: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_183
+    21300368: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_184
+    21300370: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_185
+    21300372: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_186
+    21300374: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_187
+    21300376: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_188
+    21300378: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_189
+    21300380: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_190
+    21300382: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_191
+    21300384: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_192
+    21300386: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_193
+    21300388: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_194
+    21300390: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_195
+    21300392: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_196
+    21300394: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_197
+    21300396: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_198
+    21300398: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_199
+    21300400: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_200
+    21300402: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_201
+    21300404: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_202
+    21300406: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_203
+    21300408: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_204
+    21300410: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_205
+    21300412: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_206
+    21300414: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_207
+    21300416: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_208
+    21300418: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_209
+    21300420: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_210
+    21300422: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_211
+    21300424: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_212
+    21300426: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_213
+    21300428: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_214
+    21300430: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_215
+    21300432: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_216
+    21300434: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_217
+    21300436: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_218
+    21300438: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_219
+    21300440: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_220
+    21300442: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_221
+    21300444: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_222
+    21300446: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_223
+    21300448: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_224
+    21300450: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_225
+    21300452: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_226
+    21300454: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_227
+    21300456: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_228
+    21300458: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_229
+    21300460: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_230
+    21300462: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_231
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_0
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 0
+        width: 1
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04656f19684c1349aff2e49304e9740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 188
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370ee184a667d984390ac0ad7d496ab0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 169
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cbc2ddef9a81b49af2097c14b3e2f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 145
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56be34efed390c343bcda8b9114dfb31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 124
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffe1f0b29bea5644bbd10d45bae4a98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0f74fc38d60314181694f8a8c66d2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_6
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 189
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.54885554, y: 0.46743107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6546c7d7f40b00646b377ff2d69ce9c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ae0048e24389b4192d4baa51444b03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_8
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab37494bfafccaf499aeeae5b708eae5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 167
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d745fba60198ef48829537a70774290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_10
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 167
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd512bc5a8d31749ae1e0b52485478e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 169
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b67259dd598eed4bb6b5445be6a763d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_12
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 168
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a22ed038e72ce42b3511d839bdceef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_13
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 148
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ad8d5b8c9e4704f87bd3e57f8a627c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_14
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8d490d25963c14eb5450548c8db605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_15
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aba51c81faabe64d83ec53bab992b69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 146
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47147ee12d491ed429616c25f722d04e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_17
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 125
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd86c5d4f1074c4c892c4974bd82c4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_18
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c74cbd31a74404c81222471eccf173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_19
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67e5a450eda7c74793e031222d55a89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - The Legend of Zelda The Minish Cap - Octorok_20
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81562d754d8dc34e8baca9c9d3e66f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ee8d8e1e317cb584ab3a56b1c26ff3c4
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
